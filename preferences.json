@@ -1,0 +1,22 @@
+var object = {
+    key1 : {
+        name : 'Любимый фильм',
+        value : 'Red sparrow'
+    },
+    key2 : {
+        name : 'Любимый сериал',
+        value : 'Love Death + Robots'
+    },
+    key3 : {
+        name : 'Любимая еда',
+        value : 'Baked knuckle'
+    },
+    key4 : {
+        name : 'Любимое время года',
+        value : 'Winter'
+    },
+    key5 : {
+        name : 'Страна которую хотели бы посетить',
+        value : 'Portugal'
+    },
+}
