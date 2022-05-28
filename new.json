@@ -1,0 +1,18 @@
+var object = {
+    key1 : {
+        name : 'ФИО',
+        value : 'Kastsialian Aliaksei Valer'evich'
+    },
+    key2 : {
+        name : 'Возраст',
+        value : '30'
+    },
+    key3 : {
+        name : 'количество домашних животных',
+        value : '1.0'
+    },
+    key4 : {
+        name : 'будущая желаемая зарплата',
+        value : '890$'
+    },
+}
